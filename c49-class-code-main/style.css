@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(167, 110, 110);
+}
+
+* {
+    border: solid;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.school{
+    background-color: rgb(2, 2, 2);
+}
